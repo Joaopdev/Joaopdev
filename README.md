@@ -1,6 +1,6 @@
 <h1 align="center">🌎 Olá, mundo! Eu sou o João 👨‍💻</h1> 
 
-<h2 align="center"> Um apaixonado Desenvolvedor Frontend que se dedica a transformar linhas de código em experiências incríveis! 🌟</h2>
+<p align="center"> Um apaixonado Desenvolvedor Frontend que se dedica a transformar linhas de código em experiências incríveis! 🌟</p>
 
 ## Sobre Mim:
 💼 Área: Desenvolvedor Frontend <br />
