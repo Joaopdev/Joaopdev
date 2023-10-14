@@ -28,4 +28,8 @@
 ### Vamos Conectar?
 Estou sempre aberto para novas oportunidades, colaborações e amizades no mundo do desenvolvimento. Vamos criar algo incrível juntos! 🚀
 
-Vamos codar e transformar ideias em realidade! 🌟
+<div align="center">
+  <a href="https://www.linkedin.com/in/spjoao/-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  <a href="https://instagram.com/j.o.a.o.j" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:jpsilva.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
