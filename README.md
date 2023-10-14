@@ -1,6 +1,6 @@
 <h1 align="center">🌎 Olá, mundo! Eu sou o João 👨‍💻</h1> 
 
-## Um apaixonado Desenvolvedor Frontend que se dedica a transformar linhas de código em experiências incríveis! 🌟
+<h2 align="center"> Um apaixonado Desenvolvedor Frontend que se dedica a transformar linhas de código em experiências incríveis! 🌟</h2>
 
 ## Sobre Mim:
 💼 Área: Desenvolvedor Frontend <br />
@@ -8,7 +8,8 @@
 🛠️ Ferramentas Mágicas: Context API, Pré processadores CSS, Consumo de API REST para criar conexões poderosas. <br />
 <br />
 ## Meu projeto mais impactante: ManuteMech
-### Um projeto que controla e gerencia as manutenções de seus veículos, como custo das peças, datas, local de manutenção, além de mostrar veículo por veículo seu gasto ao longo do tempo.
+<h3> Um projeto que controla e gerencia as manutenções de seus veículos, como custo das peças, datas, local de manutenção, além de mostrar veículo por veículo seu gasto ao longo do tempo. </h3>
+
 [Clique aqui para ver mais!](https://manutemech.vercel.app)
 <br />
 <br />
