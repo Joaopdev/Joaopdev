@@ -13,7 +13,7 @@
 [Clique aqui para ver mais!](https://manutemech.vercel.app)
 <br />
 Frontend: React, Styled Components, Storybook, Material UI, ContextAPI, Formik, YUP, ChartJS <br />
-Backend: Typescript, Node, Express, JWToken, Prisma, BCrypt, Dotenv, Prisma, PostgreSQL.
+Backend: Typescript, Node, Express, JWToken, BCrypt, Dotenv, Prisma, PostgreSQL.
 <br />
 
 ## Além do foco em dominar o Frontend, também me dedico nos estudos do lado Backend da força:
