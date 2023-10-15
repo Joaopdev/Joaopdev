@@ -14,11 +14,13 @@
 <br />
 <br />
 
-## Além de me dedicar a dominar o Frontend, também me aventuro nos mistérios do Backend:
+## Além do foco em dominar o Frontend, também me dedico nos estudos do Backend da força:
 
 🌐 Ferramentas usadas: Typescript, Node, Express, Prisma, PostgreSQL
 
 🚀 Atualização constante: Busco o aperfeiçoamento constante para estar sempre pronto a novos desafios.
+
+📜 Estudando no momento: Estou focado no meu aprendizado e neste momento estudando sobre Design Patterns para entender melhor em como aplicar as melhores ferramentas na resolução dos problemas.
 
 ## O Que Eu Amo
 
