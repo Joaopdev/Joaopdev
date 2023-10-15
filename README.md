@@ -4,7 +4,7 @@
 
 ## Sobre Mim:
 💼 Área: Desenvolvedor Frontend <br />
-🚀 Stack Tecnológica: Javascript, Typescript, React, Figma, Storybook, Styled Components, Material UI <br />
+🚀 Stack: Javascript, Typescript, React, Figma, Storybook, Styled Components, Material UI <br />
 🛠️ Ferramentas Mágicas: Context API, Pré processadores CSS, Consumo de API REST para criar conexões poderosas. <br />
 <br />
 ## Meu projeto mais impactante: ManuteMech
