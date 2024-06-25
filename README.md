@@ -24,12 +24,6 @@ Backend: Typescript, Node, Express, JWToken, BCrypt, Dotenv, Prisma, PostgreSQL.
 
 📜 Estudando no momento: Estou focado no meu aprendizado e neste momento estudando sobre Design Patterns para entender melhor como aplicar as melhores ferramentas na resolução dos problemas.
 
-## O Que Eu Amo
-
-👨‍🚀 Ser um explorador da tecnologia: Sempre em busca do próximo desafio emocionante. <br />
-🌈 Design com Código: Transformar ideias de design em realidade com paixão e precisão. <br />
-🤝 Colaboração: Acredito no poder do trabalho em equipe para alcançar grandes feitos. <br />
-
 ### Vamos Conectar?
 Estou sempre aberto para novas oportunidades, colaborações e amizades no mundo do desenvolvimento. Vamos criar algo incrível juntos! 🚀
 
