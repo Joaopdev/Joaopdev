@@ -1,28 +1,31 @@
-<h1 align="center">🌎 Olá, mundo! Eu sou o João 👨‍💻</h1>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <img src="assets/header-light.svg" alt="João Paulo — Construo SaaS B2B para operações industriais. Founder do Studio." width="100%">
+</picture>
 
-## Sobre Mim:
-💼 Área: Desenvolvedor Fullstack <br />
-🚀 Stack: JavaScript, TypeScript, React, Next.js, Node.js, NestJS, Tailwind CSS, Prisma e PostgreSQL <br />
 <br />
 
-## Meu projeto mais impactante: Checkar
+`// construindo agora`
 
 <p>
-O Checkar é uma plataforma SaaS para gestão de manutenção de frotas. A aplicação conecta checklists de pré-uso, queixas operacionais, não conformidades e manutenções, centralizando informações que normalmente ficam dispersas em papéis, planilhas e mensagens.
+  <a href="https://app.checkar.studio.tec.br">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/checkar-dark.svg">
+      <img src="assets/checkar-light.svg" alt="Checkar — gestão de manutenção de frotas" width="49%">
+    </picture>
+  </a>
+  <a href="https://studio.tec.br">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/studio-dark.svg">
+      <img src="assets/studio-light.svg" alt="Studio — software sob medida" width="49%">
+    </picture>
+  </a>
 </p>
 
-<p>
-O sistema permite acompanhar custos, recorrências, disponibilidade dos veículos, serviços realizados, peças utilizadas e indicadores de manutenção, apoiando decisões mais rápidas e reduzindo a perda de informações importantes da operação.
-</p>
+`// stack`
 
-[Acesse o Checkar](https://app.checkar.studio.tec.br)
-<br />
-Frontend: Next.js, React, TypeScript, Tailwind CSS, shadcn/ui, TanStack Query, Zustand e PWA com suporte offline. <br />
-Backend: TypeScript, Node.js, NestJS, Prisma, PostgreSQL, JWT, WebSocket e geração de relatórios em PDF.
-<br />
+TypeScript · React · Next.js · Node.js · NestJS · Tailwind CSS · Prisma · PostgreSQL
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/spjoao/-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/j.o.a.o.j" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="mailto:jpsilva.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+---
+
+[LinkedIn](https://www.linkedin.com/in/spjoao/) · [Email](mailto:jpsilva.dev@gmail.com) · [studio.tec.br](https://studio.tec.br)
