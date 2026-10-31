@@ -24,8 +24,30 @@
 
 `// stack`
 
-TypeScript · React · Next.js · Node.js · NestJS · Tailwind CSS · Prisma · PostgreSQL
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
+  <img src="assets/stack-light.svg" alt="TypeScript, React, Next.js, Node.js, NestJS, Tailwind CSS, Prisma, PostgreSQL" width="100%">
+</picture>
 
 ---
 
-[LinkedIn](https://www.linkedin.com/in/spjoao/) · [Email](mailto:jpsilva.dev@gmail.com) · [studio.tec.br](https://studio.tec.br)
+<p>
+  <a href="https://www.linkedin.com/in/spjoao/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/link-linkedin-dark.svg">
+      <img src="assets/link-linkedin-light.svg" alt="LinkedIn" height="36">
+    </picture>
+  </a>
+  <a href="mailto:jpsilva.dev@gmail.com">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/link-email-dark.svg">
+      <img src="assets/link-email-light.svg" alt="Email" height="36">
+    </picture>
+  </a>
+  <a href="https://studio.tec.br">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/link-studio-dark.svg">
+      <img src="assets/link-studio-light.svg" alt="studio.tec.br" height="36">
+    </picture>
+  </a>
+</p>
